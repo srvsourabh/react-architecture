@@ -1,0 +1,1 @@
+This folder will contain the images used in our project. eg : EV Logo, EagleView image etc.

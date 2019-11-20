@@ -1,0 +1,1 @@
+This folder will contain the icons used in our project (if any).
